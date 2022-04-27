@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to PodPro.Biz -- A Mastodon Instance
+
+It is run by Seth Goldstein. Email him with questions [here](mailto:phillycodehound@proton.me).
+
+
 
 You can use the [editor on GitHub](https://github.com/phillycodehound/podpro.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
